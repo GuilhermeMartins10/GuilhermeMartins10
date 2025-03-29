@@ -15,7 +15,7 @@ At the moment, I’m focusing on:
 ## Let's Connect!
 
 - [Medium](https://medium.com/@guilhermemartins28) 📝
-- [LinkedIn](www.linkedin.com/in/guilherme-r-75710236) 📲
+- [LinkedIn](https://www.linkedin.com/in/guilherme-r-75710236) 📲
 
 Feel free to reach out if you'd like to connect, exchange ideas, or discuss the latest trends in tech!
 
